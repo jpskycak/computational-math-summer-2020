@@ -17,3 +17,34 @@ Due: Tuesday, May 25 by midnight
 * If classmates aren’t able to resolve the issue, ping me (Justin) and I’ll chime in.
 
 3. Share your completed Assignment 1 with me (jpskycak@gmail.com).
+
+---
+
+Assignment 2: Intro to Github; Arrays / Dictionaries in Python
+
+Assignment: Code Review; Classes in Python
+
+Assignment: Brute-Force Search
+
+Project: Brute-Force Search
+
+Assignment: Recursion
+
+Assignment: Trees
+
+Assignment: Graphs
+
+Project: _______
+
+Assignment: Compression & Decompression
+
+Project: Compression
+
+Assignment: Euler Estimation & Plotting
+
+Assignment: Grid Search
+
+Assignment: Feature Engineering
+
+Project: Oscillations in DE’s
+
