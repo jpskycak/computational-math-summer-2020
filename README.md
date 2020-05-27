@@ -1,4 +1,4 @@
-# Assignment 1: Intro to Google Colab; Strings / Integers in Python
+### Assignment 1: Intro to Google Colab; Strings / Integers in Python
 Due: Tuesday, May 25 by midnight
 
 1. Watch this [tutorial](https://www.youtube.com/watch?v=KCCzo31Oo8U&t=352s) on Google Colab notebooks. You can skip the first 6 minutes, but 6:00-15:00 are pretty useful.
